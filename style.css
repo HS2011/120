@@ -1,0 +1,9 @@
+img{
+    height: 400px;
+    width:300px;
+}
+.test_image_and_result{
+    border-style:solid;
+    border-width:10px;
+    border-color:black
+}
